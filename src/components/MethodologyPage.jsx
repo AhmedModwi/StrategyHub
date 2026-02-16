@@ -1,8 +1,8 @@
 'use client';
 
 import { useLanguage } from './ui/LanguageContext';
-import { methodologyData } from '@/data/methodology';
-import { cn } from '@/lib/utils';
+import { methodologyData } from '../data/methodology';
+import { cn } from '../lib/utils';
 import { ArrowLeft, TrendingUp } from 'lucide-react';
 import Link from 'next/link';
 

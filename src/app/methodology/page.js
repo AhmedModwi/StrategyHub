@@ -1,4 +1,4 @@
-import MethodologyPage from '@/components/MethodologyPage';
+import MethodologyPage from '../../components/MethodologyPage';
 
 export const metadata = {
   title: 'Decision Matrix | StrategyHub',

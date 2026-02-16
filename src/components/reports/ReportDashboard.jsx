@@ -8,7 +8,7 @@ import MermaidChart from '../charts/MermaidChart';
 import { motion, AnimatePresence } from 'framer-motion';
 import { CheckCircle2, AlertTriangle, AlertOctagon, TrendingUp, Menu, X } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import { cn } from '@/lib/utils';
+import { cn } from '../../lib/utils';
 
 export default function ReportDashboard({ data }) {
   const { lang, toggleLang } = useLanguage();

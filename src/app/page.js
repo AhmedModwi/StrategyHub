@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { ArrowLeft, Building2, Scale, Stethoscope, Plane, Briefcase, TrendingUp } from 'lucide-react';
-import { useLanguage } from '@/components/ui/LanguageContext';
+import { useLanguage } from '../components/ui/LanguageContext';
 import { useTranslations } from 'next-intl';
 
 export default function Home() {

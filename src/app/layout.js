@@ -1,7 +1,7 @@
 import { Inter, IBM_Plex_Sans_Arabic } from "next/font/google";
 import "./globals.css";
-import { LanguageProvider } from "@/components/ui/LanguageContext";
-import Footer from "@/components/layout/Footer";
+import { LanguageProvider } from "../components/ui/LanguageContext";
+import Footer from "../components/layout/Footer";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const ibmPlexSansArabic = IBM_Plex_Sans_Arabic({ 
