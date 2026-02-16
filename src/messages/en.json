@@ -1,0 +1,28 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "realEstate": "Real Estate",
+    "lawFirms": "Law Firms",
+    "clinics": "Clinics",
+    "travel": "Travel & Tourism",
+    "businessSetup": "Business Setup"
+  },
+  "Dashboard": {
+    "tabs": {
+      "reality": "Business Reality",
+      "website": "Website Model"
+    },
+    "back": "Back to Home",
+    "checklist": "Strategic Checklist",
+    "methodology": "Selection Methodology",
+    "designedBy": "Designed by Ahmed Modwi"
+  },
+  "Landing": {
+    "title": "Industry Reports Dashboard",
+    "subtitle": "Interactive Operational Blueprints for 2026",
+    "readReport": "Read Report",
+    "methodologyTitle": "Selection Methodology",
+    "methodologyDesc": "How we selected these 5 high-potential industries using data-driven analysis and AI.",
+    "viewMethodology": "View Decision Matrix"
+  }
+}
