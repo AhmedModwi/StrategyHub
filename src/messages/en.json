@@ -7,10 +7,12 @@
     "travel": "Travel & Tourism",
     "businessSetup": "Business Setup"
   },
+
   "Dashboard": {
     "tabs": {
       "reality": "Business Reality",
-      "website": "Website Model"
+      "website": "Website Model",
+      "checklist": "Strategic Checklist"
     },
     "back": "Back to Home",
     "checklist": "Strategic Checklist",
